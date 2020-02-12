@@ -21,20 +21,20 @@ Controladores:
  
  - Archivos de Compatibilidad: (Matlab 2016b - simulink files)
    * 2016b\HINF_CubeSat.slx
-	 * 2016b\NoLineal_CubeSat.slx
+   * 2016b\NoLineal_CubeSat.slx
    * 2016b\PID2_Cubesat.slx
-	 * 2016b\PID3_Cubesat.slx
+   * 2016b\PID3_Cubesat.slx
    * 2016b\Q_NL_SMC_Cubesat.slx
-	 * 2016b\Quaternions_Cubesat.slx
+   * 2016b\Quaternions_Cubesat.slx
    * 2016b\REAL_Q_NL_SMC_Cubesat.slx
    * 2016b\SMC_NonLinear_CubeSat.slx
    * 2016b\SMC2_Cubesat.slx
 	 
 - HINF:
    * HINF_Pics
-	 * Ejemplo_Hinf_Planta.slx (Hinf Example)
-	 * HINF_CubeSat.slx  (Hinf Controller)
-	 * Plantilla_HINF.slx (Template)
+   * Ejemplo_Hinf_Planta.slx (Hinf Example)
+   * HINF_CubeSat.slx  (Hinf Controller)
+   * Plantilla_HINF.slx (Template)
 
 - PID:
 	 * PID_pics 
